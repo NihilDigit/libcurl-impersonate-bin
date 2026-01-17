@@ -1,4 +1,4 @@
-# Maintainer: Spencer <you@example.com>
+# Maintainer: NihilDigit <starse.nd233@gmail.com>
 
 pkgname=libcurl-impersonate-bin
 pkgver=1.2.5
